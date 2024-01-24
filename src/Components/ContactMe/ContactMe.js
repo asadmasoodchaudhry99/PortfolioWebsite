@@ -189,7 +189,7 @@ useEffect(() => {
           </Col>
           <Col lg={6}>
             
-              <form onSubmit={handleSubmit}>
+              <form className="formContact" onSubmit={handleSubmit}>
               <Fade cascade direction="right">
                 <Row>
                 

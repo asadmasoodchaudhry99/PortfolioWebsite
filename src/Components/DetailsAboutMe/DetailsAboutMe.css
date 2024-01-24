@@ -1,0 +1,47 @@
+.titleAboutDetails{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #ffffff;
+    text-transform: capitalize;
+}
+.DetailsAboutMeSec{
+    color: #ffffff !important;
+}
+.Dets .info .CompanyName{
+    font-size: 1.2em;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.Dets .info .Title{
+    font-size: 1.5em;
+    
+    font-weight: 500;
+}
+.Dets .info .others{
+    
+    margin-top: 10px;
+    font-weight: 300;
+    color: #9ca3af;
+    
+}
+.Dets .description{
+    font-size: 1em;
+
+}
+.ReadMoreButton{
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+.Details{
+    margin-top: 50px;
+}
+.Detail{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.CodeIcon .codeTag {
+    color: #71717a;
+  }

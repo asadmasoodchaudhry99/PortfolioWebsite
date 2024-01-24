@@ -1,0 +1,42 @@
+.AboutSection{
+      background-color: #ffffff;
+ 
+}
+.ContainerAboutus{
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.titleAbout{
+    font-size: 2.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.AboutMeDetails{
+    margin-top: 30px;
+    text-align:justify;
+}
+.Skills{
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.SkillsLane{
+    display: flex;
+    justify-content: space-between;
+}
+.Skill{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.Skill img{
+    width: 80px;
+    filter: grayscale(100);
+    transition: all 200ms linear;
+}
+.Skill img:hover{
+    transform: scale(1.1);
+    filter: grayscale(0);
+}

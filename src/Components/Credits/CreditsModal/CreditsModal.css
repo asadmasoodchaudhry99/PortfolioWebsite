@@ -1,0 +1,22 @@
+.modal-backdrop.show {
+    opacity: 0.8 !important;
+    }
+    .ModelDetails{
+        color: #000000 !important;
+    }
+    .modal-header{
+        border-bottom: none !important;
+    }
+    .btn-close:focus{
+        box-shadow: none !important
+    }
+    .modal-content{
+        /* background-color: #000000 !important; */
+    }
+    
+    .DetailsPoints{
+        margin-top: 30px;
+    }
+    .Credit{
+        display: flex;
+    }

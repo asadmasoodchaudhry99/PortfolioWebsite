@@ -1,0 +1,25 @@
+.projectinfo .heading{
+    font-size:1.5em;
+    font-weight: bold;
+}
+.projectinfo .description{
+    font-size: 1em;
+    font-weight: 300;
+    margin-top: 10px;
+    
+}
+.DetailsPoints{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.codeDescriptionProjects{
+    display: flex;
+}
+.ImageProject{
+    background-color: #eaeaea;
+    padding: 10px;
+    border-radius: 10px;
+}
+.ImageProject img{
+    width: 100%;
+}

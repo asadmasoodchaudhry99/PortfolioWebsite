@@ -66,12 +66,14 @@ const Projects = () => {
                 heading: "Garaj Cloud - Pakistan's First Cloud Service",
                 description: "As the frontend developer behind Garaj Cloud, I played a pioneering role in the end-to-end development of Pakistan's inaugural cloud service. My responsibilities extended beyond crafting an intuitive user interface to encompass the implementation of robust frontend functionalities.",
                 keycontributions: {
-                  k1: "Designed visually appealing and user-friendly webpages using Figma, ensuring a seamless and delightful experience for users seeking taxi services in the Netherlands.",
-                  k2: "Developed the front end using a combination of HTML, CSS, Bootstrap, and JavaScript. The responsive design ensures optimal user experiences across various devices.",
-                  k3: "Utilized the Python Django framework to develop a powerful back end that handles the core functionalities of TaxiAir. The backend includes features such as user authentication, ride booking, and order management.",
-                  k4: "Implemented a robust database solution using Postgres, ensuring efficient data storage, retrieval, and management for the platform.",
-                  k5: "Deployed the entire application on the Heroku platform, ensuring scalability and accessibility for users across the Netherlands.",
-                  k6: "Provided customers with a comprehensive dashboard, equipped with all the necessary CRUD (Create, Read, Update, Delete) operations. This dashboard empowers users to manage their taxi bookings seamlessly."
+                  k1: "Conducted thorough requirement elicitation sessions with stakeholders to gather and analyze software requirements and project objectives.",
+                  k2: "Translated business requirements into detailed specifications and functional requirements, ensuring clarity and alignment with project goals.",
+                  k3: "Prepared comprehensive SRS documents encompassing functional requirements, system architecture, use cases, and user stories.",
+                  k4: "Collaborated with design and development teams to ensure the alignment of software features with project objectives, contributing to project planning for timely and successful delivery.",
+                  k5: "Developed high-performance, visually appealing web applications using a combination of HTML, CSS, JavaScript, and Python for seamless functionality and unparalleled user experience.",
+                  k6: "Employed Agile methodologies to ensure on-time and on-scope delivery of projects consistently.",
+                  k7: "Executed comprehensive testing protocols to achieve optimal performance and maximize user satisfaction.",
+                  k8: "Utilized analytical tools and data visualization techniques to continuously monitor, measure, analyze, and communicate website performance metrics, resulting in improved user experience, increased conversion rates, and maximized revenue growth."
                 },
                 ending: "Garaj Cloud stands as a testament to my proficiency in frontend development and strategic collaboration, marking a groundbreaking milestone as Pakistan's inaugural cloud service.",
                 link: "https://garajcloud.com/"
